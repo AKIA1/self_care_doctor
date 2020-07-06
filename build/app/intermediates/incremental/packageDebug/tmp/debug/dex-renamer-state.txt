@@ -1,0 +1,4 @@
+#Fri Jul 03 23:24:12 EET 2020
+base.0=E\:\\developing\\self_care_doctor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
